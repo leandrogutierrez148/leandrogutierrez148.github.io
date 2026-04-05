@@ -17,7 +17,10 @@ disableCopy: true
 ---
 
 La interfaz está cambiando, el browser deja de ser el centro del universo. Ésto parece un pensamiento recurrente estos últimos meses.
-Llegó HAL 9000.
+> Dave Bowman: Open the pod bay doors, HAL.
+>
+> HAL 9000: I'm sorry, Dave. I'm afraid I can't do that.
+
 <!-- more -->
 
 ## Modelos como commodities.
