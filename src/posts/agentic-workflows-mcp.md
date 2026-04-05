@@ -31,9 +31,20 @@ La forma en que interactuamos con la inteligencia artificial está cambiando. Ya
 
 LSS: tenia un servicio de juguete que habia hecho para un round de entrevistas: el esqueleto de una tienda de productos escrita en golang, con acceso a una db y con un echo sirviendo http. Descargo antigravity, y entro en mood. Todo lo que siempre quise, dictar como irían las cosas y ver proyectado ese deseo en minutos sin hacer esfuerzo. Podía invertir tiempo sin apuros en arquitectura, abstracciones, patrones, cuestiones filosóficas sin fin. El agente se encarga de implementarlo.
 
+#### Descarga el repo
 ````bash
 git clone https://github.com/leandrogutierrez148/acomm
 ````
+
+#### Run
+
+Asegúrate de tener `docker` instalado y corriendo.
+
+````bash
+make up
+````
+
+Ve a `http://localhost:8501`
 
 ![agent workflow](/assets/images/acomm-agent.gif)
 
