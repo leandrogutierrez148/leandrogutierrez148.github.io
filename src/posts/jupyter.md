@@ -147,6 +147,13 @@ Observación: puedes listar los kernels existentes ejecutando
 jupyter kernelspec list
 ```
 
+
+::: tip
+Observación: puedes eliminar kernels ejecutando
+```python
+jupyter kernelspec uninstall python3
+```
+
 Este comando es muy interesante, ya que nos muestra cuales y donde estan alojados los kernel que vamos creando.
 :::
 
