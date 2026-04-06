@@ -1,5 +1,5 @@
 ---
-title: 'Agentes y MCP'
+title: 'Agente, agente...'
 cover: /assets/images/hal-9000.jpg
 icon: file
 order: 5
@@ -23,7 +23,7 @@ La interfaz está cambiando, el browser deja de ser el centro del universo. Ést
 
 <!-- more -->
 
-## Modelos como commodities.
+## Modelos como commodities
 
 La forma en que interactuamos con la inteligencia artificial está cambiando. Ya no es solo un chatbot, ahora navega por vos, ejecuta acciones, sugiere decisiones de negocio, etc, etc. Mientras esto sucede, se comienza a proveer un servicio hasta ahora desconocido, la inferencia en tiempo real. El modelo se convierte en un commodity. De repente hay un "layer" nuevo en la arquitectura cliente/servidor, **cliente/modelo/servidor**. El procesamiento que pagaba el cliente y recaía sobre las maquinas del proveedor, ahora recae sobre el modelo de inferencia y es pagada en sengunda instancia tambien por el cliente.
 
